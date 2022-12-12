@@ -1,0 +1,277 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+    background-color: #CCAAAA;
+}
+
+head{
+    background-color:  rgba(232, 225, 225, 0.74);
+    position: absolute;
+    top: 0px;
+}
+
+main{
+    position: relative;
+    background: rgba(204, 170, 170, 0.79);
+}
+
+footer{
+    position: absolute;
+    background: rgba(232, 225, 225, 0.74);
+}
+
+.logo-principal{
+    position: absolute;
+width: 309px;
+height: 114px;
+left: 68px;
+top: 0px;
+}
+
+.conteudo-principal{
+    position: absolute;
+width: 317px;
+height: 78px;
+left: 561px;
+top: 18px;
+
+font-family: 'Sarala';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 78px;
+
+color: rgba(0, 0, 0, 0.63);
+}
+
+.imagem-saude{
+    position: absolute;
+width: 317px;
+height: 207px;
+left: 1031px;
+top: 186px;
+
+}
+
+.conteudo-descritivo{
+    position: absolute;
+width: 732px;
+height: 161px;
+right: 105px;
+left: 336px;
+top: 443px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 350px;
+font-size: 36px;
+line-height: 42px;
+
+color: #0c0a0a;
+}
+
+.telefone{
+    position: absolute;
+width: 196px;
+height: 39px;
+left: 133px;
+top: 874px;
+
+font-family: 'Salsa';
+font-style: normal;
+font-weight: 350px;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+}
+
+.fax{
+    position: absolute;
+width: 155px;
+height: 39px;
+left: 154px;
+top: 952px;
+
+font-family: 'Salsa';
+font-style: normal;
+font-weight: 350px;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+}
+
+.email{
+    position: absolute;
+width: 155px;
+height: 39px;
+left: 547px;
+top: 874px;
+
+font-family: 'Salsa';
+font-style: normal;
+font-weight: 350px;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+}
+
+.redes{
+    position: absolute;
+width: 165px;
+height: 29px;
+left: 1200px;
+top: 900px;
+
+font-family:Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 350px;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+}
+
+.clinica{
+    position: absolute;
+width: 251px;
+height: 39px;
+left: 29px;
+top: 301px;
+
+font-family: 'Salsa';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+}
+
+.horario{
+    position: absolute;
+width: 420px;
+height: 39px;
+left: 29px;
+top: 393px;
+
+font-family: 'Salsa';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+}
+
+.contato{
+    position: absolute;
+width: 135px;
+height: 39px;
+left: 29px;
+top: 485px;
+
+font-family: 'Salsa';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+
+.what{
+    position: absolute;
+    right: 30px;
+    left: 1190px;
+    top: 953px;
+}
+
+.insta{
+    position: absolute;
+    right: 30px;
+    left: 1240px;
+    top: 953px;
+}
+
+.face{
+    position: absolute;
+    right: 30px;
+    left: 1290px;
+    top: 953px;
+}
+
+.linha {
+    position: absolute;
+    width: 406px;
+    height: 0px;
+    left: 440px;
+    top: 644px;
+
+    border: 4px solid #FFFFFF;
+}
+
+.conteudo-secundario-descritivo{
+    position: absolute;
+    width: 732px;
+    height: 151px;
+    right: 105px;
+    left: 336px;
+    top: 433px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 350px;
+    font-size: 25px;
+    line-height: 41px;
+    
+    color: #0c0a0a;
+}
+
+.tabela{
+    border: 2px solid cornsilk;
+    position: absolute;
+    border-radius: 10px;
+    left: 350px;
+    margin-top: 450px;
+    right: 250px;
+    width: 70%;
+    height: 20%;
+}
+
+.forms {
+    position: absolute;
+    left: 350px;
+    margin-top: 450px;
+    right: 250px;
+    width: 70%;
+    height: 20%;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-display: flex;
+}
+
+.comen{
+    font-size: 25px;
+    font-family: 'Arial';
+    padding: 10px;
+}
+
+audio{
+    position: absolute;
+    top: 670px;
+    left: 500px;
+
+}
